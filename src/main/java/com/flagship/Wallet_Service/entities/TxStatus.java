@@ -1,0 +1,5 @@
+package com.flagship.Wallet_Service.entities;
+
+public enum TxStatus {
+    POSTED, REVERSED
+}
